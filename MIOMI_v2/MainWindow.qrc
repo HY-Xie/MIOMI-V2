@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/MainWindow">
+        <file>Resources/exit.png</file>
+        <file>Resources/logoff.png</file>
+        <file>Resources/background1.jpg</file>
+        <file>Resources/background_6m.png</file>
+        <file>Resources/background_3.jpg</file>
+        <file>Resources/big-red-sell-button.png</file>
+        <file>Resources/search.png</file>
+        <file>Resources/find.png</file>
+        <file>Resources/member_record.png</file>
+        <file>Resources/input.png</file>
+        <file>Resources/sell.png</file>
+        <file>Resources/users_search.png</file>
+        <file>Resources/new_72px_employee.png</file>
+        <file>Resources/modify_vip.png</file>
+        <file>Resources/system_72px_.png</file>
+        <file>Resources/peronal_setting.png</file>
+        <file>Resources/addCustomer.png</file>
+        <file>Resources/mainwindow.png</file>
+    </qresource>
+</RCC>
